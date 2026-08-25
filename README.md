@@ -1,1 +1,1 @@
-# aula-de-informatic
+# aula-de-informatica
